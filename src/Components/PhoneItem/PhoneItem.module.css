@@ -1,0 +1,32 @@
+.phoneNumber {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+
+    padding: 15px;
+    margin-left: 20px;
+    border: 2px solid teal;
+    margin-top: 15px;
+
+    background-color: #ffffff;
+}
+
+.phoneTitle {
+    font-size: 20px;
+}
+
+.phoneControl {
+    align-items: center;
+}
+
+.buttonBin {
+    border: none;
+    background: none;
+    padding: 0;
+    cursor: pointer;
+}
+
+.buttonBin img {
+    width: 30px;
+}

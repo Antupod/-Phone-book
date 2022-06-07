@@ -1,0 +1,12 @@
+.myLink {
+    align-items: center;
+    margin-right: 20px;
+    color: green;
+    font-size: 14px;
+    background: transparent;
+}
+
+.myLink img {
+    width: 30px;
+    height: 44px;
+}

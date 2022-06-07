@@ -1,0 +1,8 @@
+.formWrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.inputItem {
+    margin: 10px 0;
+}

@@ -1,5 +1,5 @@
 #How to launch a project
-Go to the project folder and write
+Go to the project folder and write <b>Test</b>
 ###npm i
 ###npm start
 

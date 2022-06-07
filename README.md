@@ -1,9 +1,8 @@
 <h1 align="center">How to launch a project</h1>
 
 Go to the project folder and write
-**npm i**
-***
-**npm start**
+1) **npm i**
+2) **npm start**
 
 #Project Functions
 * Add numbers and names
